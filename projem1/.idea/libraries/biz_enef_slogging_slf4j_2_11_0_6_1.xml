@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="biz.enef:slogging-slf4j_2.11:0.6.1" type="repository">
+    <properties maven-id="biz.enef:slogging-slf4j_2.11:0.6.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/biz/enef/slogging-slf4j_2.11/0.6.1/slogging-slf4j_2.11-0.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/biz/enef/slogging_2.11/0.6.1/slogging_2.11-0.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
